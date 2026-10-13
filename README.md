@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 Hi, I'm a Computer Science Engineer<br><br>💻 Passionate about **Programming**, **Linux**, and **Cybersecurity**<br>🛠️ I learn by building real projects and exploring new technologies<br>🚀 Always improving through hands-on experience
+### 👋 Hi, I'm MOHAMED,am Computer Science Engineer<br><br>💻 Passionate about **Programming**, **Linux**, and **Cybersecurity**<br>🛠️ I learn by building real projects and exploring new technologies<br>🚀 Always improving through hands-on experience
 
 
 ## 🌐 Socials:
